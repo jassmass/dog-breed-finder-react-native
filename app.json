@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "dog-breed-finder-react-native",
+    "slug": "dog-breed-finder-react-native",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "dog-breed-finder-react-native"
+}
